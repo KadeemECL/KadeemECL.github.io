@@ -1,4 +1,30 @@
-## Welcome to GitHub Pages
+Welcome to my portfolio
+
+Below you'll see a collection of the various projects that i've worked on over the years.
+
+Modelic
+
+Housing Tools
+(https://housing-tools.com)
+
+Utah Food Bank
+https://www.utahfoodbank.org
+
+Comstar Pure Lye
+https://www.comstarproducts.com
+
+Design Holdings
+https://designholdings.com
+
+Ventura Web Design
+https://www.venturawebdesign.com
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/KadeemECL/KadeemECL.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
