@@ -1,4 +1,4 @@
-Welcome to my portfolio
+Welcome to Kadeem Clarke's portfolio
 
 Below you'll see a collection of the various projects that i've worked on over the years.
 
